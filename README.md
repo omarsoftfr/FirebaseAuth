@@ -3,7 +3,7 @@ Template Xcode pour firebase auth
 
 
 
-<div class="center">
+
 ![Screenshot](https://raw.githubusercontent.com/omarsoftfr/FirebaseAuth/blob/dev/SreenShoot/1.PNG)
 ![Screenshot](https://raw.githubusercontent.com/omarsoftfr/FirebaseAuth/blob/dev/SreenShoot/2.PNG)
 ![Screenshot](https://raw.githubusercontent.com/omarsoftfr/FirebaseAuth/blob/dev/SreenShoot/3.PNG)
@@ -11,7 +11,7 @@ Template Xcode pour firebase auth
 ![Screenshot](https://raw.githubusercontent.com/omarsoftfr/FirebaseAuth/blob/dev/SreenShoot/5.PNG)
 ![Screenshot](https://raw.githubusercontent.com/omarsoftfr/FirebaseAuth/blob/dev/SreenShoot/§.PNG)
 ![Screenshot](https://raw.githubusercontent.com/omarsoftfr/FirebaseAuth/blob/dev/SreenShoot/7.PNG)
-</div>
+
 
 # <a id="installation"></a>Installation
 
