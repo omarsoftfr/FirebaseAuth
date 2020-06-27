@@ -40,8 +40,8 @@ You can use this projet to start empty projet authentification with firebase and
 
 ## Support me via paypal 
 
-<a target="_blank" src="https://www.paypal.me/SFilaumart">☕️ This coffee is on me!</a>
+☕️ [This coffee is on me!](https://www.paypal.me/SFilaumart)
 
 ## Contact
 
-<a target="_blank" src="https://www.omarsoft.fr">Website omarsoft!</a>
+ [Website omarsoft!](https://www.omarsoft.fr)
