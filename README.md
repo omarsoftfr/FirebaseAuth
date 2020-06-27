@@ -36,3 +36,12 @@ pod install
 - Prepare with translattion EN, FR.
 
 You can use this projet to start empty projet authentification with firebase and tabView.
+
+
+## Support me via paypal 
+
+<a target="_blank" src="https://www.paypal.me/SFilaumart">☕️ This coffee is on me!</a>
+
+## Contact
+
+<a target="_blank" src="https://www.omarsoft.fr">Website omarsoft!</a>
