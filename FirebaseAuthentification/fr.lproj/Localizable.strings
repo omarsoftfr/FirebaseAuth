@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  FirebaseAuthentification
+
+  Created by Sébastien Filaumart on 27/06/2020.
+  Copyright © 2020 Sébastien Filaumart. All rights reserved.
+*/
+//AFTER SIGN
+"WELCOM_TITLE" = "Te revoila!";
+"PAGE_DEMO_GO" = "Ouvrir la page demo";
+"TEXT_DEMO_LIST" = "Text de demo";
+"DEMO" = "Page demonstration";
+"DEMO_PAGE" = "Page de Démonstration";
+"HOME" = "Accueil";
+"MAP" = "Carte";
+"PROFIL" = "Profile";
+"SEARCH" = "Recherche";
+"SIGN_OUT" = "Déconnexion";
+
+
+//LOGIN
+"WELCOM_BACK" = "Bienvenue !";
+"SIGN_IN_CONTINUE" = "Connectez-vous pour continuer";
+"EMAIL" = "Adresse email";
+"PASSWORD" = "Mot de passe";
+"SIGNIN" = "Connexion";
+"NEW_USER" = "Je suis un nouvel utilisateur";
+"NEW_ACCOUNT" = "Créer un compte";
+
+
+
+//SIGNUP
+"CREATE_ACCOUNT" = "Créer un compte";
+"SIGN_UP_START" = "Inscrivez-vous pour commencer";
