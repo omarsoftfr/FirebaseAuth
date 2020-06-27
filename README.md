@@ -1,17 +1,15 @@
 # FirebaseAuth
 Template Xcode pour firebase auth
 
-
-
-
-
-![Screenshot](https://raw.githubusercontent.com/omarsoftfr/FirebaseAuth/dev/SreenShoot/1.PNG)|
-![Screenshot](https://raw.githubusercontent.com/omarsoftfr/FirebaseAuth/dev/SreenShoot/2.PNG)|
-![Screenshot](https://raw.githubusercontent.com/omarsoftfr/FirebaseAuth/dev/SreenShoot/3.PNG)|
-![Screenshot](https://raw.githubusercontent.com/omarsoftfr/FirebaseAuth/dev/SreenShoot/4.PNG)|
-![Screenshot](https://raw.githubusercontent.com/omarsoftfr/FirebaseAuth/dev/SreenShoot/5.PNG)|
-![Screenshot](https://raw.githubusercontent.com/omarsoftfr/FirebaseAuth/dev/SreenShoot/§.PNG)|
-![Screenshot](https://raw.githubusercontent.com/omarsoftfr/FirebaseAuth/dev/SreenShoot/7.PNG)
+<p float="left">
+<img src="https://raw.githubusercontent.com/omarsoftfr/FirebaseAuth/dev/SreenShoot/1.PNG" width="200" />
+<img src="https://raw.githubusercontent.com/omarsoftfr/FirebaseAuth/dev/SreenShoot/2.PNG" width="200" />
+<img src="https://raw.githubusercontent.com/omarsoftfr/FirebaseAuth/dev/SreenShoot/3.PNG" width="200" />
+<img src="https://raw.githubusercontent.com/omarsoftfr/FirebaseAuth/dev/SreenShoot/4.PNG" width="200" />
+<img src="https://raw.githubusercontent.com/omarsoftfr/FirebaseAuth/dev/SreenShoot/5.PNG" width="200" />
+<img src="https://raw.githubusercontent.com/omarsoftfr/FirebaseAuth/dev/SreenShoot/6.PNG" width="200" />
+<img src="https://raw.githubusercontent.com/omarsoftfr/FirebaseAuth/dev/SreenShoot/7.PNG" width="200" />
+</p>
 
 
 # <a id="installation"></a>Installation
