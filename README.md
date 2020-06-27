@@ -2,6 +2,11 @@
 Template Xcode pour firebase auth
 
 
+
+<div class="center">
+
+</div>
+
 # <a id="installation"></a>Installation
 
 ## CocoaPods:
